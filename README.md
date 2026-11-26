@@ -6,14 +6,14 @@
 
 # Awesome Gemini 4 Argon
 
-[![Demos](https://img.shields.io/badge/Demos-304+-111111?style=for-the-badge)](https://workskill.tools/ai-videos/gemini-4-argon)
-[![Creators](https://img.shields.io/badge/Creators-230+-2563eb?style=for-the-badge)](https://workskill.tools/ai-videos/gemini-4-argon)
+[![Demos](https://img.shields.io/badge/Demos-305+-111111?style=for-the-badge)](https://workskill.tools/ai-videos/gemini-4-argon)
+[![Creators](https://img.shields.io/badge/Creators-231+-2563eb?style=for-the-badge)](https://workskill.tools/ai-videos/gemini-4-argon)
 [![Live Gallery](https://img.shields.io/badge/Watch_Live-workskill.tools-10b981?style=for-the-badge)](https://workskill.tools/ai-videos/gemini-4-argon)
 [![MCP](https://img.shields.io/badge/WorkSkill_MCP-Claude_%7C_Codex_%7C_Cursor-7c3aed?style=for-the-badge)](https://workskill.tools/mcp)
 
-A curated, searchable index of **304 real 3D scenes, interactive games, web experiments, shaders, and motion demos** built with **Gemini 4 Argon** — complete with creator credits, original posts, prompts (57 indexed), and an open JSON dataset.
+A curated, searchable index of **305 real 3D scenes, interactive games, web experiments, shaders, and motion demos** built with **Gemini 4 Argon** — complete with creator credits, original posts, prompts (57 indexed), and an open JSON dataset.
 
-> **▶ Watch all 304 videos live (auto-playing masonry wall + instant search + 1-click prompt copy):**
+> **▶ Watch all 305 videos live (auto-playing masonry wall + instant search + 1-click prompt copy):**
 > **[https://workskill.tools/ai-videos/gemini-4-argon](https://workskill.tools/ai-videos/gemini-4-argon)**
 
 ---
@@ -25,6 +25,7 @@ A curated, searchable index of **304 real 3D scenes, interactive games, web expe
 | [Interactive Games](./categories/games.md) | **122** | [Browse games →](https://workskill.tools/ai-videos/gemini-4-argon) |
 | [3D Scenes & Worlds](./categories/3d-scenes.md) | **104** | [Browse 3d-scenes →](https://workskill.tools/ai-videos/gemini-4-argon) |
 | [Motion Graphics](./categories/motion-graphics.md) | **78** | [Browse motion-graphics →](https://workskill.tools/ai-videos/gemini-4-argon) |
+| [Motion & Visuals](./categories/motion.md) | **1** | [Browse motion →](https://workskill.tools/ai-videos/gemini-4-argon) |
 
 ---
 
@@ -58,7 +59,7 @@ A curated, searchable index of **304 real 3D scenes, interactive games, web expe
 | 24 | **Programming museum** | `games` | [@ivanainai](https://x.com/ivanainai) | Build me an interactive, explorable museum of the history of programming languages, from FORTR… | [▶ Watch](https://workskill.tools/ai-videos/gemini-4-argon/ivanainai-667607) · [Post](https://x.com/ivanainai/status/2110124500637667607) |
 | 25 | **3D shooting game** | `games` | [@npaka123](https://x.com/npaka123) | HTML・CSS・JavaScriptを1つのHTMLファイルにまとめ、ブラウザだけで動作する完成度の高い3DシューティングゲームのHTMLを作成して。 ワープ演出から始まり、ザコ敵、中ボ… | [▶ Watch](https://workskill.tools/ai-videos/gemini-4-argon/npaka123-337739) · [Post](https://x.com/npaka123/status/2110119580207337739) |
 
-👉 **[Explore all 304 demos with instant video playback on WorkSkill →](https://workskill.tools/ai-videos/gemini-4-argon)**
+👉 **[Explore all 305 demos with instant video playback on WorkSkill →](https://workskill.tools/ai-videos/gemini-4-argon)**
 
 ---
 
@@ -85,7 +86,7 @@ Maintained by **[WorkSkill](https://workskill.tools)** — production-grade Agen
 
 | Gallery / Tool | What's Inside | Link |
 | --- | --- | --- |
-| **Gemini 4 Argon Gallery** | 304 3D scenes, games & interactive demos | [workskill.tools/ai-videos/gemini-4-argon](https://workskill.tools/ai-videos/gemini-4-argon) |
+| **Gemini 4 Argon Gallery** | 305 3D scenes, games & interactive demos | [workskill.tools/ai-videos/gemini-4-argon](https://workskill.tools/ai-videos/gemini-4-argon) |
 | **Design References Wall** | 1,300+ curated Web, UI, Branding & Motion references (free) | [workskill.tools/ai-videos/design-references](https://workskill.tools/ai-videos/design-references) |
 | **Opus 5.5 Showcases** | 500+ viral Claude Opus 5.5 videos & prompts | [workskill.tools/ai-videos/opus-5-5](https://workskill.tools/ai-videos/opus-5-5) |
 | **Fable 5.2 Showcases** | 260+ motion & visual demos with prompts | [workskill.tools/ai-videos/fable5-2](https://workskill.tools/ai-videos/fable5-2) |

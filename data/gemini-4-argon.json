@@ -1,13 +1,35 @@
 {
   "source": "https://workskill.tools/ai-videos/gemini-4-argon",
-  "generatedAt": "2026-11-24",
-  "total": 304,
+  "generatedAt": "2026-11-26",
+  "total": 305,
   "categories": {
     "games": 122,
     "3d-scenes": 104,
-    "motion-graphics": 78
+    "motion-graphics": 78,
+    "motion": 1
   },
   "items": [
+    {
+      "slug": "niramayo2096-mwwxx92b",
+      "title": "AI-upscaled 4K 60fps Takachiho Gorge aerial film",
+      "category": "motion",
+      "authorHandle": "niramayo2096",
+      "authorUrl": "https://x.com/niramayo2096",
+      "postUrl": "https://x.com/niramayo2096/status/2125712885070402015",
+      "watchUrl": "https://workskill.tools/ai-videos/gemini-4-argon/niramayo2096-mwwxx92b",
+      "prompt": null,
+      "notes": "うわぁぁぁ！！API課金ゼロでここまで作れる時代。\r\n\r\nAntigravity（Gemini 4 Neon）宮崎・高千穂峡の30秒空撮をフル自動で4K 60fps化したら美しすぎたぁぁぁ！！！\r\n\r\n① 動画生成：Google Flow（PRO特典クレジット / Omni 1.2 Flash）\r\n② 連結編集：Python + FFmpeg\r\n③ 超解像＆ヌルヌル化：Google https://t.co/NqsAbYwddQ",
+      "techTags": [
+        "aerial",
+        "upscaling",
+        "4k",
+        "ffmpeg"
+      ],
+      "width": 1920,
+      "height": 1080,
+      "durationSeconds": 30,
+      "postedAt": null
+    },
     {
       "slug": "subhavmathur-762620",
       "title": "Thousand Sunny at Sunset",
