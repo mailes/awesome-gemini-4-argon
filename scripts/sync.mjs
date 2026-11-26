@@ -225,6 +225,8 @@ ${rows}
 
 # Awesome Gemini 4 Argon
 
+> **WorkSkill Open-Source Series:** [Awesome Agent Skills](https://github.com/mailes/awesome-agent-skills) · [Free AI Website Skills](https://github.com/mailes/free-ai-website-skills) · [Awesome Claude 5.5 Videos](https://github.com/mailes/awesome-claude-5-5-videos) · **Awesome Gemini 4 Argon** · [Live Store & MCP](https://workskill.tools)
+
 [![Demos](https://img.shields.io/badge/Demos-${dataset.length}+-111111?style=for-the-badge)](${SITE_GALLERY})
 [![Creators](https://img.shields.io/badge/Creators-${uniqueCreators}+-2563eb?style=for-the-badge)](${SITE_GALLERY})
 [![Live Gallery](https://img.shields.io/badge/Watch_Live-workskill.tools-10b981?style=for-the-badge)](${SITE_GALLERY})
